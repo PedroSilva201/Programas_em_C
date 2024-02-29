@@ -1,3 +1,4 @@
+// Programa originalmente extraido da wikipedia: https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci e adaptado por mim os problemas que atrapalhava na execução do visor.
 #include <stdio.h>
 int main(){
 	int N, num, numA, numB, i;
